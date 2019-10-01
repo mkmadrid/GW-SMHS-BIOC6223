@@ -1,0 +1,43 @@
+{
+	"2015": [{
+			"Weight": 149.52,
+			"Date": "April1"
+		},
+		{
+			"Weight": 149.38,
+			"Date": "April2"
+		},
+		{
+			"Weight": 149.60,
+			"Date": "April3"
+		},
+		{
+			"Weight": 149.10,
+			"Date": "April4"
+		},
+		{
+			"Weight": 151.77,
+			"Date": "April5"
+		},
+		{
+			"Weight": 150.84,
+			"Date": "April6"
+		},
+		{
+			"Weight": 149.93,
+			"Date": "April7"
+		},
+		{
+			"Weight": 149.63,
+			"Date": "April8"
+		},
+		{
+			"Weight": 149.95,
+			"Date": "April9"
+		},
+		{
+			"Weight": 147.79,
+			"Date": "April10"
+		}
+	]
+}
